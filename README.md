@@ -34,11 +34,15 @@ git clone https://github.com/monu754/Age-and-Gender-Detector.git
 ### 2. Install Requirements
 Make sure you have Python 3 and OpenCV installed.
 
-```bash pip install opencv-python```
+```bash 
+pip install opencv-python
+```
 
 
 ### 3. Run the Script
-```bash python detect.py```
+```bash 
+python detect.py
+```
 
 
 ### ⚠️ Important Notes
