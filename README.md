@@ -29,4 +29,25 @@ You can download these models from [this repo by spmallick](https://github.com/s
 
 ### 1. Clone the Repository
     ```bash
-    git clone 
+    git clone https://github.com/monu754/Age-and-Gender-Detector.git
+    ```
+
+### 2. Install Requirements
+Make sure you have Python 3 and OpenCV installed.
+    ```bash
+    pip install opencv-python
+    ```
+
+### 3. Run the Script
+    ```bash
+    python detect.py
+    ```
+
+### ⚠️ Important Notes
+1. Your webcam must be working correctly for this project to function.
+
+2. Ensure your face is clearly visible and well-lit in the webcam feed — blurry or poorly-lit images will cause the model to miss detections.
+
+3. The face detector will not detect faces at extreme angles or occluded by objects like hands or masks.
+
+4. To exit the program, use Ctrl + C in the terminal.
