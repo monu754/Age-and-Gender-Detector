@@ -28,20 +28,18 @@ You can download these models from [this repo by spmallick](https://github.com/s
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
-    ```bash
-    git clone https://github.com/monu754/Age-and-Gender-Detector.git
-    ```
+    ```bash git clone https://github.com/monu754/Age-and-Gender-Detector.git```
+
 
 ### 2. Install Requirements
 Make sure you have Python 3 and OpenCV installed.
-    ```bash
-    pip install opencv-python
-    ```
+
+```bash pip install opencv-python```
+
 
 ### 3. Run the Script
-    ```bash
-    python detect.py
-    ```
+```bash python detect.py```
+
 
 ### ⚠️ Important Notes
 1. Your webcam must be working correctly for this project to function.
