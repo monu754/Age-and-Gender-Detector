@@ -28,7 +28,8 @@ You can download these models from [this repo by spmallick](https://github.com/s
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
-    ```bash git clone https://github.com/monu754/Age-and-Gender-Detector.git```
+    ```bash git clone https://github.com/monu754/Age-and-Gender-Detector.git
+    ```
 
 
 ### 2. Install Requirements
