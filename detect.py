@@ -94,7 +94,7 @@ while True:
         print("[Warning] Frame not captured, skipping...")
         continue
 
-    frame = cv2.resize(frame, (640, 480))
+    frame = cv2.resize(frame, (1540, 880)) #Resize ur camera frame as u fit 
     result = detect_faces_in_frame(frame)
     cv2.imshow("Age and Gender Detection", result)
 
